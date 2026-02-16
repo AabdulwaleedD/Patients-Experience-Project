@@ -59,6 +59,4 @@ Abdulhamid Abdulwalid Danjuma
 Healthcare Data Analyst 
 Email: abdulwaleedlegend@gmail.com
 
-Made with ❤️ in Lagos, Nigeria
-
 Star ⭐ the repo if you find it useful!
